@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetAndDisplayInput", "GetAndDisplayInput\GetAndDisplayInput.csproj", "{67B946BB-1F18-4319-8EDE-8EBEB787D8AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67B946BB-1F18-4319-8EDE-8EBEB787D8AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67B946BB-1F18-4319-8EDE-8EBEB787D8AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67B946BB-1F18-4319-8EDE-8EBEB787D8AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67B946BB-1F18-4319-8EDE-8EBEB787D8AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C1368B8-ACCD-457D-8937-F8AFFF0F7588}
+	EndGlobalSection
+EndGlobal
